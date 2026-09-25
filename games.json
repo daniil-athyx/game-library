@@ -348,5 +348,35 @@
     "name": "Undertale: Last Breath",
     "path": "Undertale: Last Breath.html",
     "icon": "icons/undertale_last_breath.png"
+  },
+  {
+    "name": "Deltarune",
+    "path": "Deltarune.html",
+    "icon": "icons/deltarune.png"
+  },
+  {
+    "name": "Ragdoll Hit",
+    "path": "Ragdoll Hit.html",
+    "icon": "icons/ragdoll_hit.png"
+  },
+  {
+    "name": "Osu",
+    "path": "osu.html",
+    "icon": "icons/osu.png"
+  },
+  {
+    "name": "Spacebar Clicker",
+    "path": "Spacebar Clicker.html",
+    "icon": "icons/spacebar_clicker.png"
+  },
+  {
+    "name": "Polytrack",
+    "path": "Polytrack.html",
+    "icon": "icons/polytrack.png"
+  },
+  {
+    "name": "Drift Hunters",
+    "path": "Drift Hunters.html",
+    "icon": "icons/drift_hunters.png"
   }
 ]
