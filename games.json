@@ -356,12 +356,12 @@
   },
   {
     "name": "Ragdoll Hit",
-    "path": "Ragdoll Hit.html",
+    "path": "Ragdoll hit.html",
     "icon": "icons/ragdoll_hit.png"
   },
   {
     "name": "Osu",
-    "path": "osu.html",
+    "path": "Osu.html",
     "icon": "icons/osu.png"
   },
   {
